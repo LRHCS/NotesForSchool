@@ -1,0 +1,2 @@
+
+Die verschiedenen Bestandteile eine Gemisch

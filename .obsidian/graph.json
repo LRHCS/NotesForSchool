@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:🏫Schule",
+      "color": {
+        "a": 1,
+        "rgb": 65288
+      }
+    },
+    {
+      "query": "path:📕读书笔记",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:💻Tech",
+      "color": {
+        "a": 1,
+        "rgb": 16760253
+      }
+    },
+    {
+      "query": "path:📄News",
+      "color": {
+        "a": 1,
+        "rgb": 2184225
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 0.870786516853933,
+  "lineSizeMultiplier": 1.1185393258427,
+  "collapse-forces": false,
+  "centerStrength": 0.30952380952381,
+  "repelStrength": 4.64285714285714,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.1166089157945734,
+  "close": true
+}

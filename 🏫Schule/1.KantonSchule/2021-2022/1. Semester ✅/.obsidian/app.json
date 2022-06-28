@@ -1,0 +1,17 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "byCreatedTimeReverse",
+  "attachmentFolderPath": "./",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 51
+  },
+  "readableLineLength": true,
+  "showFrontmatter": false,
+  "foldHeading": false,
+  "showLineNumber": true,
+  "spellcheck": false
+}

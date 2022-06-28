@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "75009ab3dc531e3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d117fffdd04dc61a",
+        "type": "leaf",
+        "dimension": 32.12253829321663,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "English/Zusammenfassung English/Unit Test/1 GR 3.md",
+            "mode": "source"
+          }
+        },
+        "group": "7a0067073d18781b"
+      },
+      {
+        "id": "6b2e752c24d9e02e",
+        "type": "leaf",
+        "dimension": 67.87746170678336,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "English/Zusammenfassung English/Unit Test/1 GR 3.md",
+            "mode": "preview"
+          }
+        },
+        "group": "7a0067073d18781b"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f112d76fcb792700",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d130b84f7b1f3ed",
+        "type": "tabs",
+        "dimension": 60.526315789473685,
+        "children": [
+          {
+            "id": "3e12b5b707b70916",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa66841fe2aef88a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff1bac8185c3d2b4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f30f2e3dd89b4d04",
+        "type": "tabs",
+        "dimension": 39.473684210526315,
+        "children": [
+          {
+            "id": "b04f107e53d6402b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "272b54c9d4d9075b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "English/Zusammenfassung English/Unit Test/1 GR 3.md"
+              }
+            }
+          },
+          {
+            "id": "ba09e18919da3f1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "English/Zusammenfassung English/Unit Test/1 GR 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8fc1478ebfbe45fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "English/Zusammenfassung English/Unit Test/1 GR 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215
+  },
+  "right": {
+    "id": "b7daf59318193694",
+    "type": "split",
+    "children": [
+      {
+        "id": "524cf38a1f95b998",
+        "type": "tabs",
+        "dimension": 38.15789473684211,
+        "children": [
+          {
+            "id": "891d712d7345ed51",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfa6780124004f2d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2fc935f9aeabe94",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7c13b341bda7fbec",
+        "type": "tabs",
+        "dimension": 61.8421052631579,
+        "children": [
+          {
+            "id": "09fba494503fedc4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "English/Zusammenfassung English/Unit Test/1 GR 3.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6850518187162324,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "cafa587e402e6d22",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5,
+    "collapsed": true
+  },
+  "active": "6b2e752c24d9e02e",
+  "lastOpenFiles": [
+    "English/Zusammenfassung English/Unit Test/1 GR 3.md",
+    "English/Zusammenfassung English/Unit Test/English Test 15.11.21.md",
+    "sM/Zusammenfassung sM/Verktoren.md",
+    "English/Unite 2/Preposittion/Prepositon.md",
+    "English/Unite 2/Preposittion/Place.md",
+    "English/Unite 2/Bilder/Pasted image 20220115163008.png",
+    "sM/Bilder/Pasted image 20220115153959.png",
+    "English/Unite 2/Bilder/Pasted image 20220114095829.png",
+    "English/Unite 2/Preposittion/Adjektiv with preposition.md",
+    "English/Unite 2/Preposittion/Verbs with Preposition.md"
+  ]
+}
