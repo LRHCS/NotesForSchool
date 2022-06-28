@@ -190,6 +190,7 @@
   "active": "579b993e4cb61be9",
   "lastOpenFiles": [
     "💻Tech/Tools/VIM/Basic.md",
+    "💻Tech/Tools/Git/Git.md",
     "💻Tech/Math/《概率论与数理统计》/1.3.1 条件概率 + 1.3.2 乘法公式.md",
     "💻Tech/Books/科幻/时间移民-刘慈欣.md",
     "💻Tech/Math/《概率论与数理统计》/1.2.1 概率的初等描述 + 1.2.2 古典概型（排列组合）理论.md",
@@ -197,7 +198,6 @@
     "💻Tech/Computer/Programming/Web/Basic/Javascript/Frameworks/React/02 Component/绑定事件.md",
     "💻Tech/Computer/Programming/Web/Basic/Javascript/Frameworks/React/02 Component/组件状态.md",
     "💻Tech/Computer/Programming/Web/Basic/Javascript/Frameworks/React/02 Component/函数组件 + 类组件.md",
-    "💻Tech/Computer/Programming/Web/Basic/Javascript/Frameworks/React/01 jsx/条件渲染.md",
-    "💻Tech/Computer/Programming/Web/Basic/Javascript/Frameworks/React/01 jsx/表达式.md"
+    "💻Tech/Computer/Programming/Web/Basic/Javascript/Frameworks/React/01 jsx/条件渲染.md"
   ]
 }

@@ -1,3 +1,4 @@
+#tech #Computer #Tools 
 # Normal Mode
 use i to go to the insert mode
 
