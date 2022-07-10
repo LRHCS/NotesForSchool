@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "579b993e4cb61be9",
+        "id": "7a1525d97a29d498",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "💻Tech/Math/Probability/《概率论与数理统计》/1.3.1 条件概率 + 1.3.2 乘法公式.md",
+            "file": "4. 🎶🎥🎬📽️📷/摄影/TOOLS/PS/PS.md",
             "mode": "source",
             "source": true
           }
         },
-        "group": "18e6fb7cbd1bc6be"
+        "group": "1ba5233ddc05a941"
       },
       {
-        "id": "97ba337b99b9182c",
+        "id": "3a54fb5fa6eda63c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "💻Tech/Math/Probability/《概率论与数理统计》/1.3.1 条件概率 + 1.3.2 乘法公式.md",
+            "file": "4. 🎶🎥🎬📽️📷/摄影/TOOLS/PS/PS.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "18e6fb7cbd1bc6be"
+        "group": "1ba5233ddc05a941"
       }
     ],
     "direction": "vertical"
@@ -39,7 +39,7 @@
       {
         "id": "d00f453d241d945e",
         "type": "tabs",
-        "dimension": 68.47181008902078,
+        "dimension": 66.81184668989548,
         "children": [
           {
             "id": "abeebbbd1f8be52e",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻Tech/Math/Probability/《概率论与数理统计》/1.3.1 条件概率 + 1.3.2 乘法公式.md",
+                "file": "4. 🎶🎥🎬📽️📷/摄影/TOOLS/PS/PS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,19 +95,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💻Tech/Math/Probability/《概率论与数理统计》/1.3.1 条件概率 + 1.3.2 乘法公式.md",
+                "file": "4. 🎶🎥🎬📽️📷/摄影/TOOLS/PS/PS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "3e2b6f3c767106c0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "💻Tech/Math/Probability/《概率论与数理统计》/1.3.1 条件概率 + 1.3.2 乘法公式.md"
               }
             }
           },
@@ -127,7 +117,7 @@
       {
         "id": "b3a95c3a44de9e1d",
         "type": "tabs",
-        "dimension": 31.528189910979226,
+        "dimension": 33.18815331010453,
         "children": [
           {
             "id": "49e0925aa4aa2d8d",
@@ -135,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "💻Tech/Math/Probability/《概率论与数理统计》/1.3.1 条件概率 + 1.3.2 乘法公式.md",
+                "file": "4. 🎶🎥🎬📽️📷/摄影/TOOLS/PS/PS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,9 +161,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "3e2b6f3c767106c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. 🎶🎥🎬📽️📷/摄影/TOOLS/PS/PS.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -187,17 +187,17 @@
     "width": 289,
     "collapsed": true
   },
-  "active": "579b993e4cb61be9",
+  "active": "7a1525d97a29d498",
   "lastOpenFiles": [
-    "💻Tech/Math/Probability/《概率论与数理统计》/1.3.1 条件概率 + 1.3.2 乘法公式.md",
-    "💻Tech/Math/Probability/《概率论与数理统计》/1.2.1 概率的初等描述 + 1.2.2 古典概型（排列组合）理论.md",
-    "💻Tech/Math/Probability/《概率论与数理统计》/1.1.1 随机试验与随机事件 + 1.1.2 样本空间与事件的集合表示+1.1.3 事件间的关系.md",
-    "🏫Schule/1.KantonSchule/2021-2022/1. Semester ✅/Chemie/Zusammenfassung Chemie/Chemie Prüfung 23.11.21.md",
-    "💻Tech/Programming/C/Basics/1.Basic/Variable.md",
-    "💻Tech/Programming/C/Basics/1.Basic/Basic.md",
-    "💻Tech/Programming/C/Basics/3.Condition/Switch.md",
-    "💻Tech/Tools/VIM/Basic.md",
-    "💻Tech/Programming/C/Basics/5.String/String.md",
-    "💻Tech/Programming/C/Basics/6. Input/User Input.md"
+    "4. 🎶🎥🎬📽️📷/摄影/TOOLS/PS/PS.md",
+    "4. 🎶🎥🎬📽️📷/视频/打光/Octane.md",
+    "4. 🎶🎥🎬📽️📷/视频/TOOLS/PR/PR.md",
+    "4. 🎶🎥🎬📽️📷/视频/TOOLS/C4D/C4D.md",
+    "4. 🎶🎥🎬📽️📷/视频/TOOLS/AE/AE.md",
+    "4. 🎶🎥🎬📽️📷/摄影/摄影.md",
+    "4. 🎶🎥🎬📽️📷/视频/TOOLS/Davinci/Davinci.md",
+    "2. 💻Tech/2. Modelling/Solidworks/Solidworks.md",
+    "2. 💻Tech/2. Modelling/ZBrush/ZBrush.md",
+    "2. 💻Tech/17. Game Production/Unity/Unity.md"
   ]
 }
