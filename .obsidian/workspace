@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "7a1525d97a29d498",
+        "id": "8ea1947e0bb4a66a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. 🎶🎥🎬📽️📷/摄影/TOOLS/PS/PS.md",
+            "file": "1. 🏫Schule🏫/1.KantonSchule/2021-2022/1. Semester ✅/Chemie/Zusammenfassung Chemie/Chemie Prüfung 23.11.21.md",
             "mode": "source",
             "source": true
           }
         },
-        "group": "1ba5233ddc05a941"
+        "group": "7431d1dfa039f2f6"
       },
       {
-        "id": "3a54fb5fa6eda63c",
+        "id": "d651db9e69b47f19",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. 🎶🎥🎬📽️📷/摄影/TOOLS/PS/PS.md",
+            "file": "1. 🏫Schule🏫/1.KantonSchule/2021-2022/1. Semester ✅/Chemie/Zusammenfassung Chemie/Chemie Prüfung 23.11.21.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "1ba5233ddc05a941"
+        "group": "7431d1dfa039f2f6"
       }
     ],
     "direction": "vertical"
@@ -39,7 +39,7 @@
       {
         "id": "d00f453d241d945e",
         "type": "tabs",
-        "dimension": 66.81184668989548,
+        "dimension": 70.67557535263549,
         "children": [
           {
             "id": "abeebbbd1f8be52e",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. 🎶🎥🎬📽️📷/摄影/TOOLS/PS/PS.md",
+                "file": "1. 🏫Schule🏫/1.KantonSchule/2021-2022/1. Semester ✅/Chemie/Zusammenfassung Chemie/Chemie Prüfung 23.11.21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. 🎶🎥🎬📽️📷/摄影/TOOLS/PS/PS.md",
+                "file": "1. 🏫Schule🏫/1.KantonSchule/2021-2022/1. Semester ✅/Chemie/Zusammenfassung Chemie/Chemie Prüfung 23.11.21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
       {
         "id": "b3a95c3a44de9e1d",
         "type": "tabs",
-        "dimension": 33.18815331010453,
+        "dimension": 29.324424647364516,
         "children": [
           {
             "id": "49e0925aa4aa2d8d",
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4. 🎶🎥🎬📽️📷/摄影/TOOLS/PS/PS.md",
+                "file": "1. 🏫Schule🏫/1.KantonSchule/2021-2022/1. Semester ✅/Chemie/Zusammenfassung Chemie/Chemie Prüfung 23.11.21.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +155,7 @@
             }
           },
           {
-            "id": "8b5d2598c3d4f813",
+            "id": "6867484845fc04f9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. 🎶🎥🎬📽️📷/摄影/TOOLS/PS/PS.md"
+                "file": "1. 🏫Schule🏫/1.KantonSchule/2021-2022/1. Semester ✅/Chemie/Zusammenfassung Chemie/Chemie Prüfung 23.11.21.md"
               }
             }
           }
@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341
+    "width": 337
   },
   "right": {
     "id": "82655baceb8f7ad4",
@@ -187,17 +187,17 @@
     "width": 289,
     "collapsed": true
   },
-  "active": "7a1525d97a29d498",
+  "active": "8ea1947e0bb4a66a",
   "lastOpenFiles": [
-    "4. 🎶🎥🎬📽️📷/摄影/TOOLS/PS/PS.md",
-    "4. 🎶🎥🎬📽️📷/视频/打光/Octane.md",
-    "4. 🎶🎥🎬📽️📷/视频/TOOLS/PR/PR.md",
-    "4. 🎶🎥🎬📽️📷/视频/TOOLS/C4D/C4D.md",
-    "4. 🎶🎥🎬📽️📷/视频/TOOLS/AE/AE.md",
-    "4. 🎶🎥🎬📽️📷/摄影/摄影.md",
-    "4. 🎶🎥🎬📽️📷/视频/TOOLS/Davinci/Davinci.md",
-    "2. 💻Tech/2. Modelling/Solidworks/Solidworks.md",
-    "2. 💻Tech/2. Modelling/ZBrush/ZBrush.md",
-    "2. 💻Tech/17. Game Production/Unity/Unity.md"
+    "2. 💻Tech💻/Tech News/Wired/Science/Euler’s 243-Year-Old ‘Impossible’ Puzzle Gets a Quantum Solution.md",
+    "2. 💻Tech💻/Tech News/Wired/Bionic/Bionic.md",
+    "8. 📄News 📄/Wörterbuch.md",
+    "2. 💻Tech💻/0. CS_LEARN/12. Web_Apps/Backend/7. Infrastructures/Docker/Docker.md",
+    "2. 💻Tech💻/0. CS_LEARN/10. Compilers/CMAKE/CMake.md",
+    "2. 💻Tech💻/12. Web/Frontend/0.5 Network/Untitled.md",
+    "2. 💻Tech💻/0. CS_LEARN/12. Web_Apps/Frontend/0.5 Network/Sees in 8. Computer Networking.md",
+    "2. 💻Tech💻/0. CS_LEARN/7. Hack_Security/Batch Troll Shit/blackscreen.md",
+    "2. 💻Tech💻/0. CS_LEARN/0. Math/❗Calculus/Calculus 1/9. Limits at Infinity and Algebraic Tricks.md",
+    "2. 💻Tech💻/0. CS_LEARN/0. Math/❗Calculus/Calculus 1/4. The Squeeze Theorem.md"
   ]
 }
